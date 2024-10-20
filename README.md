@@ -2,7 +2,6 @@
 
 A deep learning project that implements a neural network to classify handwritten digits using the MNIST dataset and PyTorch framework.
 
-<<<<<<< HEAD
 ## Project Overview
 
 This project demonstrates the implementation of a Convolutional Neural Network (CNN) to recognize handwritten digits from the MNIST dataset. The model is built using PyTorch and achieves high accuracy in digit classification tasks.
@@ -97,11 +96,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any queries or suggestions, please open an issue in the repository.
 =======
-An analysis of the **MNIST handwritten digits database** using PyTorch and Jupyter Notebook.
-In the process of creating the documentation of this file project.
-Will be available by 21st October 2024
-
-## License
-
-The contents of this repository are covered under the [MIT License](LICENSE).
->>>>>>> origin/master
