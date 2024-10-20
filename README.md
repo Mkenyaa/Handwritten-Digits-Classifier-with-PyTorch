@@ -3,8 +3,8 @@
 ## Summary
 
 An analysis of the **MNIST handwritten digits database** using PyTorch and Jupyter Notebook.
-
-This notebook was originally submitted as a [**Udacity**](https://www.udacity.com/) project in 2023.
+In the process of creating the documentation of this file project.
+Will be available by 21st October 2024
 
 ## License
 
