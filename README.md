@@ -29,7 +29,7 @@ jupyter>=1.0.0
 1. Clone this repository:
 ```bash
 git clone https://github.com/Mkenyaa/Handwritten-Digits-Classifier-with-PyTorch.git
-cd Handwritten-Digits-Classifier-with-PyTorch
+
 ```
 
 2. Install the required packages:
